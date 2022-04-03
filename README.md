@@ -5,7 +5,7 @@ Pharma Management
 This is the Mini Project of Pharma Store Management System is a console application. In this project, you can add, modify, delete, search records and displaying of medicines.
 
 | CI | C/C++ CI | Code Quality | Unity Test | Codiga Score | Codiga Grade |
-| --- | --- | ---| --- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- | --- | --- |
 |[![CI](https://github.com/Sunkara-Appanna-Babu/M1_Pharma_Management/actions/workflows/main.yml/badge.svg)](https://github.com/Sunkara-Appanna-Babu/M1_Pharma_Management/actions/workflows/main.yml)|[![C/C++ CI - Build Status](https://github.com/Sunkara-Appanna-Babu/M1_Pharma_Management/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/Sunkara-Appanna-Babu/M1_Pharma_Management/actions/workflows/c-cpp.yml)|[![Code Quality - Static Code - Cppcheck](https://github.com/Sunkara-Appanna-Babu/M1_Pharma_Management/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/Sunkara-Appanna-Babu/M1_Pharma_Management/actions/workflows/cppcheck.yml)|[![Unit Testing - Unity](https://github.com/Sunkara-Appanna-Babu/M1_Pharma_Management/actions/workflows/unity.yml/badge.svg)](https://github.com/Sunkara-Appanna-Babu/M1_Pharma_Management/actions/workflows/unity.yml)| ![Codiga Score](https://api.codiga.io/project/32517/score/svg)| ![Codiga Grade](https://api.codiga.io/project/32517/status/svg)|
 
 ## Folder structure:
